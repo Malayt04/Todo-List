@@ -6,8 +6,7 @@ const App = ()  => {
       <>
       {/* <Myname />
       <h1 className="myclass" onClick=" ">Welcome please {3+3}</h1>  */}
-      
-      <Todo />
+        <h1>Harshit Maroo</h1>
       </>
   )
 }
